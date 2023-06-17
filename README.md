@@ -1,3 +1,3 @@
 # Readme
 
-Learning resources for technical and non-technical subjects for DevOps Engineer
+Technical and non-technical learning resources for DevOps Engineer
